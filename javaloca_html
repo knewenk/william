@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>javaloca</title>
+    </head>
+
+    <body background="C:\Users\user\Desktop\semester 3\web programming\gambar\2.png">
+    <img src="C:\Users\user\Desktop\semester 3\web programming\gambar\javaloca2-removebg-preview.png" alt="your travel solution" width="200" height="100">
+<form action="C:\Users\user\Desktop\semester 3\web programming\vsc\login.html" class="inline">
+<button class="float-left submit-button" >logout</button>
+</form>
+    <table style="width:33%">
+      <tr>
+        <th>Transportasi</th>
+        <th>Tempat Menginap</th>
+      </tr>
+      <tr>
+      <table style="width:33%">
+        <td>
+         <select>
+        <option>Tiket Pesawat</option>
+        <option>Pesawat+Hotel</option>
+        <option>Tiket Kereta Api</option>
+        <option>Tiket Kapal</option>
+        <option>Tiket Bus</option>
+      </select>
+        </td>
+        <td>
+        <select>
+        <option>Hotel</option>
+        <option>Pesawat+Hotel</option>
+      </select>
+      </td>
+      </tr>
+      </table>
+<form action="C:\Users\user\Desktop\semester 3\web programming\vsc\javaloca_destination.html" class="inline">
+    <button class="float-left submit-button" >Next</button>
+</form>
+    </body>
+</html>

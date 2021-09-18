@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>javaloca</title>
+    </head>
+    <body background="C:\Users\user\Desktop\semester 3\web programming\gambar\2.png">
+    <img src="C:\Users\user\Desktop\semester 3\web programming\gambar\javaloca2-removebg-preview.png" alt="your travel solution" width="200" height="100">
+    <form>
+      <p>
+        Username:
+        <input type="text">
+      </p>
+
+      <p>
+        Password:
+        <input type="password">
+      </p>
+    </form>
+<form action="C:\Users\user\Desktop\semester 3\web programming\vsc\javaloca.html" class="inline">
+    <button class="float-left submit-button" >Login</button>
+</form>
+</body>
+</html> 
